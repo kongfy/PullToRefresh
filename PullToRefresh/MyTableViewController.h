@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MyTableViewController.h
 //  PullToRefresh
 //
 //  Created by kongfy on 13-7-20.
@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PTRTableViewController.h"
 
-@interface ViewController : UIViewController
+@interface MyTableViewController : PTRTableViewController
 
 @end
